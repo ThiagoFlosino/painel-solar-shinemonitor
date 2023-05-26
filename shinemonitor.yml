@@ -1,0 +1,6 @@
+sensor:
+  - platform: shinemonitor
+    username: YOUR_USERNAME
+    password: YOUR_PASSWORD
+    company_id: YOUR_COMPANY_ID
+    plant_id: YOUR_PLANT_ID

@@ -1,0 +1,9 @@
+{
+    "domain": "shinemonitor",
+    "name": "Shine Monitor",
+    "version": "0.0.1",
+    "documentation": "",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": [""]
+}
