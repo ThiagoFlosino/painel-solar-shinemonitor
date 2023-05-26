@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@ThiagoFlosino"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/ThiagoFlosino/painel-solar-shinemonitor",
+  "domain": "shineMonitor",
+  "iot_class": "cloud_polling",
+  "name": "Shine Monitor",
+  "requirements": [],
+  "version": "1.0.0"
+}

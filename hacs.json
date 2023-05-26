@@ -1,7 +1,5 @@
 {
-  "name": "ShineMonitor",
-  "zip_release": false,
-  "filename": "Shinemonitor.zip",
-  "domains": ["solar"],
-  "homeassistant": "2022.12.0"
+  "name": "Shine Monitor",
+  "render_readme": true,
+  "iot_class": "cloud_polling"
 }
