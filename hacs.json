@@ -1,0 +1,7 @@
+{
+  "name": "ShineMonitor",
+  "zip_release": false,
+  "filename": "Shinemonitor.zip",
+  "domains": ["solar"],
+  "homeassistant": "2022.12.0"
+}
